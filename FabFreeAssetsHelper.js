@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         FabFreeAssetsAdd
+// @name         FabFreeAssetsHelper
 // @namespace    http://tampermonkey.net/
 // @version      v1.0
 // @description  Fab 免费资产一键入库 - 支持极速/稳定模式
