@@ -374,7 +374,7 @@
                         <label class="switch"><input type="checkbox" id="uf-toggle"><span class="slider"></span></label>
                     </div>
                     <div class="uf-btn-group">
-                        <button class="uf-btn" id="btn-check" style="background:#3b82f6;">⚡ 检查更新</button>
+                        <button class="uf-btn" id="btn-check" style="background:#3b82f6;">⚡ 增量扫描</button>
                         <button class="uf-btn" id="btn-full" style="background:#10b981;">🐢 全量扫描</button>
                     </div>
                 </div>
