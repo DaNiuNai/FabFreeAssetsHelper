@@ -72,6 +72,12 @@
 
 ---
 
+## 🖼️ 预览图
+
+<img width="335" height="370" alt="image" src="https://github.com/user-attachments/assets/c22aebee-226f-4da2-a0e5-84bdb36ba27b" />
+
+---
+
 ## 📜 免责声明
 
 *   本脚本仅供学习与技术交流使用。
